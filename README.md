@@ -13,7 +13,7 @@ This is a simple Hangman game implemented in Python. The game selects a random w
 - Python 3.x
 
 ## Project Structure
-- `hangman.py`: Main script that runs the game.
+- `main.py`: Main script that runs the game.
 - `graphics.py`: Contains the ASCII representations of the hangman at different stages.
 - `words.py`: Contains a list of words used in the game.
 
