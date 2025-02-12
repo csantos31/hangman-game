@@ -55,6 +55,8 @@ R T Y Q W
 Give one letter
 
 ```
+![DEMO](https://github.com/csantos31/hangman-game/blob/main/demo.gif)
+
 
 ## Notes
 - The game normalizes input, meaning accented characters are treated as their unaccented versions.
