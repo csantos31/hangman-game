@@ -34,6 +34,7 @@ This is a simple Hangman game implemented in Python. The game selects a random w
    - You correctly guess the entire word.
    - You reach the maximum number of incorrect guesses.
 
+
 ## Example Gameplay
 ```
 
